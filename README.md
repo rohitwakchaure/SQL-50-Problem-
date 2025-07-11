@@ -1,4 +1,4 @@
-
+# SQL 50
 Each file contains:
 - 🔹 Problem statement (as comments)
 - 🔹 SQL solution
